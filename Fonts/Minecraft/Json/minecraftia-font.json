@@ -3,14 +3,14 @@
   "name": "Minecraftia",
   "previewText": "Minecraftia",
   "main": {
-    "ABCGintoNord-ExtraBold": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf",
-    "ggsans-Bold": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf",
-    "ggsans-ExtraBold": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf",
-    "ggsans-Medium": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf",
-    "ggsans-Normal": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf",
-    "ggsans-Semibold": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf",
-    "NotoSans-Bold": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf",
-    "NotoSans-Medium": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf",
-    "NotoSans-Normal": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf"
+    "ABCGintoNord-ExtraBold": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
+    "ggsans-Bold": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
+    "ggsans-ExtraBold": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
+    "ggsans-Medium": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
+    "ggsans-Normal": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
+    "ggsans-Semibold": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
+    "NotoSans-Bold": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
+    "NotoSans-Medium": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
+    "NotoSans-Normal": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf"
   }
 }
