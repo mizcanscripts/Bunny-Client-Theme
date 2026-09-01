@@ -2,40 +2,37 @@
   "spec": 1,
   "name": "Minecraftia v1.0.0",
   "previewText": "Minecraftia",
-  "fonts": [
-    {
-      "name": "Minecraftia",
-      "main": {
-        "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Bold-Extended.ttf",
-        "ggsans-Bold": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Bold.ttf",
-        "ggsans-ExtraBold": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Bold-Extended.ttf",
-        "ggsans-Medium": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
-        "ggsans-Normal": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
-        "ggsans-Semibold": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
-        "NotoSans-Bold": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Bold.ttf",
-        "NotoSans-ExtraBold": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Bold-Extended.ttf",
-        "NotoSans-Medium": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
-        "NotoSans-Normal": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
-        "NotoSans-Semibold": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
-        "SourceCodePro-Semibold": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf"
-      }
-    },
-    {
-      "name": "Minecraftia Italic",
-      "main": {
-        "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
-        "ggsans-Bold": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
-        "ggsans-ExtraBold": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
-        "ggsans-Medium": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
-        "ggsans-Normal": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
-        "ggsans-Semibold": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
-        "NotoSans-Bold": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
-        "NotoSans-ExtraBold": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
-        "NotoSans-Medium": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
-        "NotoSans-Normal": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
-        "NotoSans-Semibold": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf",
-        "SourceCodePro-Semibold": "https://raw.githubusercontent.com/mizcanscripts/Bunny-Client-Theme/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf"
-      }
-    }
-  ]
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Bold-Extended.ttf?raw=1",
+
+    "ggsans-Bold": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Bold-Italic.ttf?raw=1",
+
+    "ggsans-ExtraBold": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Bold-Extended.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Bold-Italic-Extended.ttf?raw=1",
+
+    "ggsans-Medium": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Italic.ttf?raw=1",
+
+    "ggsans-Normal": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Italic.ttf?raw=1",
+
+    "ggsans-Semibold": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Bold-Italic.ttf?raw=1",
+
+    "NotoSans-Bold": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Bold.ttf?raw=1",
+    "NotoSans-BoldItalic": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Bold-Italic.ttf?raw=1",
+
+    "NotoSans-ExtraBold": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Bold-Extended.ttf?raw=1",
+
+    "NotoSans-Medium": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf?raw=1",
+    "NotoSans-MediumItalic": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Italic.ttf?raw=1",
+
+    "NotoSans-Normal": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Italic.ttf?raw=1",
+
+    "NotoSans-Semibold": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf?raw=1",
+
+    "SourceCodePro-Semibold": "https://github.com/mizcanscripts/Bunny-Client-Theme/raw/refs/heads/main/Fonts/Minecraft/Minecraftia-Regular.ttf?raw=1"
+  }
 }
