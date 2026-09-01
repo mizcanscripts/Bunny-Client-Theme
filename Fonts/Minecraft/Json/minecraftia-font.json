@@ -1,0 +1,16 @@
+{
+  "spec": 1,
+  "name": "Minecraftia",
+  "previewText": "Minecraftia",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf",
+    "ggsans-Bold": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf",
+    "ggsans-ExtraBold": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf",
+    "ggsans-Medium": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf",
+    "ggsans-Normal": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf",
+    "ggsans-Semibold": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf",
+    "NotoSans-Bold": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf",
+    "NotoSans-Medium": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf",
+    "NotoSans-Normal": "https://YOUR-USERNAME.github.io/YOUR-REPO/Minecraftia-Regular.ttf"
+  }
+}
